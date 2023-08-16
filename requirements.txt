@@ -1,7 +1,6 @@
+python==3.10
 openai
-langchain
-streamlit
+streamlit==1.21.0
 streamlit-chat
 streamlit-autorefresh
 python-decouple
-os
