@@ -1,5 +1,5 @@
 openai
-streamlit==1.21.0
+streamlit==1.24.0
 streamlit-chat
 streamlit-autorefresh
 python-decouple
